@@ -1,5 +1,6 @@
 /*  REST-Testserver
-    Quelle: https://web-forward.de/2020/06/tutorial-dive-into-vue-node-rest/
+    Source: https://web-forward.de/2020/06/tutorial-dive-into-vue-node-rest/
+    Thanks to Prof. Dr. Marius Hofmeister
 */
 
 const express = require("express");
